@@ -1,0 +1,5 @@
+{
+  "recommendations": [
+    "ms-vscode.cpptools",        // Microsoft’s C/C++ IntelliSense/etc.
+  ],
+}
